@@ -3,7 +3,7 @@
 ## Description
 
 The objective of this project was to create a system to manage routes of a public transportation system. <br>
-We were to accomplish that purpose by created a sort of command-line interface (CLI) that would allow us to perform the necessary actions to manage such a system. <br>
+To accomplish that purpose we created a command-line interface (CLI) that would allow us to perform the necessary actions to manage such a system. <br>
 
 | comand | action                                 |
 |--------|----------------------------------------|
@@ -18,6 +18,6 @@ We were to accomplish that purpose by created a sort of command-line interface (
 
 ### Difference between versions
 
-- **Version 1**: The first submission of the project. The system was supossed to only accept routes, stops and connections up until a limited amount. Commands were 'q','c','p','l' and 'i'.
+- **Version 1**: The first submission of the project. The system was intended to only accept routes, stops and connections up until a limited amount. Commands were 'q','c','p','l' and 'i'.
 
-- **Version 2**: The final submission of the project. The system was supossed to accept an unlimited amount of routes, stops and connections and allow deletion of these elements (enforcing the use dynamic memory). In case of the limit of memory being reached, the program should free all previous allocated memory and still end with EXIT_CODE 0. Additional commands were 'r','e' and 'a'.
+- **Version 2**: The final submission of the project. The system was intended to accept an unlimited amount of routes, stops and connections and allow deletion of these elements (enforcing the use dynamic memory). In case of the limit of memory being reached, the program should free all previous allocated memory and still end with EXIT_CODE 0. Additional commands were 'r','e' and 'a'.
