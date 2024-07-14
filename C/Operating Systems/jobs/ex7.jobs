@@ -1,0 +1,9 @@
+CREATE 14 5 5
+RESERVE 14 [(1,1)]
+RESERVE 14 [(1,2) (1,3) (1,4) (1,5)]
+RESERVE 14 [(5,1) (5,2) (5,3) (5,4)]
+RESERVE 14 [(5,5)]
+RESERVE 14 [(3,3)]
+RESERVE 14 [(4,4)]
+SHOW 14
+
