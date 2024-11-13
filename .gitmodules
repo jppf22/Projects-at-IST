@@ -1,0 +1,12 @@
+[submodule "Python/Machine Learning/HW1"]
+	path = Python/Machine Learning/HW1
+	url = https://github.com/jppf22/HW1
+[submodule "Python/Machine Learning/HW2"]
+	path = Python/Machine Learning/HW2
+	url = https://github.com/jppf22/HW2
+[submodule "Python/Machine Learning/HW3"]
+	path = Python/Machine Learning/HW3
+	url = https://github.com/jppf22/HW3
+[submodule "Python/Machine Learning/HW4"]
+	path = Python/Machine Learning/HW4
+	url = https://github.com/jppf22/HW4
