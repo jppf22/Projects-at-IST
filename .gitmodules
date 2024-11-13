@@ -10,3 +10,6 @@
 [submodule "Python/Machine Learning/HW4"]
 	path = Python/Machine Learning/HW4
 	url = https://github.com/jppf22/HW4
+[submodule "JavaScript/Human-Machine Interaction/Reaction Game"]
+	path = JavaScript/Human-Machine Interaction/Reaction Game
+	url = https://github.com/jppf22/BakeOff2-IPM
