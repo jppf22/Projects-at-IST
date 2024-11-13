@@ -1,4 +1,4 @@
-
+import sys
 
 # TAD Gerador
 # Chosen representation - type: list -> [int,int] = [bits,seed]
@@ -768,4 +768,13 @@ def minas(last_col,last_lin,n_mines,generator_dimension,seed):
     return True
     
 #print(minas('Z',20,30,32,1))
-
+if __name__ == "__main__":
+    if len(sys.argv) != 6:
+        print("Usage: python Minesweeper.py <last_col> <last_lin> <n_mines> <generator_dimension> <seed>")
+    else:
+        last_col = sys.argv[1]
+        last_lin = int(sys.argv[2])
+        n_mines = int(sys.argv[3])
+        generator_dimension = int(sys.argv[4])
+        seed = int(sys.argv[5])
+        minas(last_col, last_lin, n_mines, generator_dimension, seed)
