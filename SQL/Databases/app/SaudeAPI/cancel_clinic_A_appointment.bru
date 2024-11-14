@@ -1,0 +1,18 @@
+meta {
+  name: cancel_clinic_A_appointment
+  type: http
+  seq: 6
+}
+
+delete {
+  url: http://127.0.0.1:8080/a/Clinica A/cancelar/?paciente_ssn=00000000001&nome_medico=Medico O4&data=2024-06-02&hora=09:30
+  body: none
+  auth: none
+}
+
+query {
+  paciente_ssn: 00000000001
+  nome_medico: Medico O4
+  data: 2024-06-02
+  hora: 09:30
+}
