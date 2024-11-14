@@ -5,12 +5,12 @@ It figures out how to rotate multiple pipe pieces of different types in a grid t
 
 In the repo, simply run one of test cases by using `python pipe3.py < test.txt` where text.txt is a valid input pipe grid.
 
-> Since the .py ran on a evaluation system, the repo isn't very "clean", note that the version to be ran is `pipe3.py`. Also do note that you can visualize any pipe grid, wether a test case or a generated solution, by simply using `python visualizer.py < pipe.txt` where pipe.txt is any valid pipe grid
+> Since the .py ran on a evaluation system, the repo isn't very "clean", note that the version to be ran is `pipe3.py`. Also do note that you can visualize any pipe grid, whether a test case or a generated solution, by simply using `python visualizer.py < pipe.txt` where pipe.txt is any valid pipe grid
 
 An example of how the visualizer might look like is:
 
 <div align="center" style="padding-bottom:30px">
-    <img src="PIPEMANIA/Grid_Image.png" width="500px">
+    <img src="Grid_Image.png" width="500px">
 </div>
 
 ### Solution
