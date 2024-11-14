@@ -13,3 +13,6 @@
 [submodule "JavaScript/Human-Machine Interaction/Reaction Game"]
 	path = JavaScript/Human-Machine Interaction/Reaction Game
 	url = https://github.com/jppf22/BakeOff2-IPM
+[submodule "Python/Artificial Intelligence/PIPEMANIA"]
+	path = Python/Artificial Intelligence/PIPEMANIA
+	url = https://github.com/joaocosta21/PIPEMANIA-IA
