@@ -10,7 +10,7 @@ In the repo, simply run one of test cases by using `python pipe3.py < test.txt` 
 An example of how the visualizer might look like is:
 
 <div align="center" style="padding-bottom:30px">
-    <img src="PIPEMANIA/Grid_Image.png" width="500px">
+    <img src="Grid_Image.png" width="500px">
 </div>
 
 ### Solution
